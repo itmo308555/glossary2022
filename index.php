@@ -77,7 +77,7 @@
   <body>
     <h1>Glossary</h1>
     <div id="div1">
-      <form class="" action="dictionary.php" method="post">
+      <form class="" action="index.php" method="post">
         <input type="text" name="word" value="" placeholder="Search Word"><br>
         <input type="submit" name="search" value="Search">
       </form>
